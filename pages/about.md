@@ -26,21 +26,20 @@ padding: 6em
 
 Este archivo en línea de música de la Guerra Civil en El Salvador (1980-1992) conserva de forma permanente grabaciones recientes e históricas de canciones relacionadas con el conflicto armado. 
 
+Este archivo es el resultado de una iniciativa de investigación colaborativa, <a href="https://www.elsalvadormemory.org/inicio" target="_blank" rel="noopener">Memoria Histórica Sobreviviente en El Salvador de la Posguerra</a>, que está financiada en parte por el Social Sciences and Humanities Research Council of Canada [Consejo de Investigación de Ciencias Sociales y Humanidades de Canadá, SSHRC] y el Ontario Research Fund [Fondos de Investigación de Ontario].
+
 Esta es una primera versión del proyecto de archivo comunitario y participativo liderado por las necesidades de la comunidad en El Salvador. Próximamente, en una segunda etapa, este archivo estará disponible al público a través de una aplicación de fácil acceso. 
 
  
 
-Las grabaciones de este archivo corresponden a registros históricos de canciones durante la década de los 80’s. La mayoría de estos fueron grabados en los campamentos de refugio en Honduras. Por otra parte, están los registros comunitarios grabados por el equipo de investigación sobre las canciones que las comunidades de Guarjila y Mesa Grande consideraban importantes para dejar testimonio sobre los hechos acontecidos durante la Guerra Civil en El Salvador. 
+Las grabaciones de este archivo son históricas y también contemporáneas. Las grabaciones históricas fueron la mayoría realizadas en los campamentos de refugio en Honduras durante la guerra. Las grabaciones contemporáneas fueron realizadas por el equipo de investigación en las comunidades del departamento de Chalatenango.
+
+## Contacto
+Para contactarte con el equipo de trabajo del archivo para alguna consulta o si quisieras enviar una canción para agregar al archivo escríbenos al e-mail music.surviving.memory[@]gmail.com . 
 
 
 ## Metodología
-<i>Transcripciones</i>   
-
-Las transcripciones de las letras de las canciones fueron realizadas palabra por palabra con el fin de respetar la fidelidad de la presentación de la música en vivo que fue registrada. En este sentido se encontrarán en varios de los archivos las secciones repetidas como las del coro. Decidimos transcribir de esta manera para dejar un registro de las variaciones de palabras que las y los músicos realizaron cuando estaban interpretando. 
-
-También hay algunas secciones que están marcadas en itálica. La primera razón es para resaltar cuando los intérpretes al inicio de las canciones realizan introducciones a las canciones que van a interpretar, por lo tanto la diferenciación en itálica está para distinguir esas distintas voces enunciantes. En otras ocasiones las canciones tienen secciones en itálica en medio de las canciones para destacar una diferenciación sobre cuando las y los intérpretes dejan de cantar y empiezan a interactuar con el público o a narrar, de manera hablada,  no “cantada”. 
-
- 
+<i>Transcripciones</i>    
 
 Las transcripciones se realizaron por distintos transcriptores, con el fin de tener diferentes oyentes de los registros y desde las diferentes percepciones llegar a una versión lo más cercana al registro del archivo. Además realizamos procesos de corrección entre los distintos transcriptores de las versiones preliminares que se iban registrando. A su vez, cuando eran canciones que eran covers de artistas populares que ya estaban registradas en LP o álbumes de venta comercial las letras de esos temas fueron comparadas con las versiones originales. 
 
@@ -66,24 +65,28 @@ Las categorías a partir de las cuales fue organizado el archivo están basadas 
 
 <b>Letra:</b> transcripción palabra a palabra de las letras de las canciones y las explicaciones de las y los intérpretes cuando están realizando la performance en vivo. 
 
-## Contacto
-Para contactarte con el equipo de trabajo del archivo para alguna consulta o si quisieras enviar una canción para agregar al archivo escríbenos al e-mail music.surviving.memory[@]gmail.com  
+## Otros proyectos musicales de Memoria Histórica Sobreviviente en El Salvador de la Posguerra
 
-## Cancioneros
-El equipo trabaja con comunidades y músicas/os para crear cancioneros, que incluyen transcripciones de las letras de canciones de la guerra junto con información explicativa, imágenes o testimonios relevantes que hablan de la importancia de las canciones para comunidades repobladas específicas. Estos cancioneros están disponibles como libros electrónicos (con grabaciones de las canciones incorporadas) y pronto se distribuirán de forma impresa. Hasta ahora, hemos producido un cancionero con la comunidad de Las Vueltas y otro que documenta las canciones del músico y dirigente comunitario don Felipe Tobar.
+<i>Cancioneros</i>
+
+El equipo trabaja con comunidades y músicas/os para crear cancioneros de canciones de la guerra que ellas y ellos encuentran significativas. Estos cancioneros incluyen transcripciones de las letras de canciones de la guerra junto con información explicativa, imágenes o testimonios relevantes que hablan de la importancia de las canciones para comunidades repobladas específicas. Estos cancioneros están disponibles como libros electrónicos (con grabaciones de las canciones incorporadas) y pronto se distribuirán de forma impresa. Hasta ahora, hemos producido un cancionero con la comunidad de <a href="https://www.elsalvadormemory.org/songbooks-es" target="_blank" rel="noopener">Las Vueltas</a> y otro que documenta las canciones del músico y dirigente comunitario don Felipe Tobar.
 
 {% include feature/image.html objectid="demo_136" width="75" caption="Comité de música en Las Vueltas, El Salvador, 2024" %}
 
-## Talleres de memoria histórica y testimonios
+<i>Talleres de memoria histórica y testimonios</i>
+
 En los talleres de memoria histórica, el equipo de música fomenta un espacio para que integrantes de la comunidad compartan recuerdos de cuando hacían música en conjunto durante la guerra. En estos eventos también se graban canciones para el archivo digital de música y se toman testimonios individuales sobre estos temas. Los talleres se cierran con una reunión nocturna para la comunidad, en la que se presenta un grupo local especializado en canciones populares de la guerra, fomentando la educación intergeneracional sobre la música de la guerra.
 
-## Música en las conmemoraciones
+<i>Música en las conmemoraciones</i>
+
 Uno de los estudios llevados a cabo examina los eventos anuales de conmemoración de las grandes masacres de civiles cometidas por el ejército durante la guerra. Estos eventos suelen ser muy elaborados, con música durante todo el evento, además de discursos, sociodramas, y actividades religiosas. A partir de un enfoque etnográfico y en colaboración con un músico salvadoreño, el equipo ha realizado observaciones de participantes y grabado canciones y rituales que ocurren durante estos eventos, así como entrevistas con músicas/os participantes y organizadoras/es locales.
 
-## Documentales y publicaciones
-Además de considerar la música como expresión comunitaria, el equipo también realiza estudios de cantautoras y cantautores que estaban activos durante la guerra civil. Uno de estos estudios produjo el documental de Juan Bello titulado Norberto Amaya, Cantautor (Triana Media, 2018). También Se produjo un artículo académico sobre este músico que era conocido como “Don Tito,” en el que se analiza cómo su música sirvió tanto a las necesidades psicológicas como políticas durante la guerra. El artículo se publicará en enero de 2025 en el Journal of American Musicological Society.
+<i>Documentales y publicaciones</i>
 
-## Educación musical
+Además de considerar la música como expresión comunitaria, el equipo también realiza estudios de cantautoras y cantautores que estaban activos durante la guerra civil. Uno de estos estudios produjo el documental de Juan Bello titulado Norberto Amaya, Cantautor (Triana Media, 2018). También se produjo un <a href="https://online.ucpress.edu/jams/article-abstract/78/1/53/206678/Faith-Trauma-Resistance-and-Resilience-in-the?redirectedFrom=fulltext" target="_blank" rel="noopener">artículo académico</a> sobre este músico que era conocido como “Don Tito,” en el que se analiza cómo su música sirvió tanto a las necesidades psicológicas como políticas durante la guerra. El artículo fue publicado en enero de 2025 en el Journal of American Musicological Society.
+
+<i>Educación musical</i>
+
 Otro estudio examina las iniciativas de educación musical puestas en marcha desde el final de la guerra civil. Hasta ahora, el equipo ha centrado su investigación en dos centros de arte: Centro Arte para la Paz (Suchitoto) y Centro de Arte y Cultura Paco Cutumay (Segundo Montes). Un estudio de caso comparativo explorará las formas en que estas escuelas participan en la construcción de la paz a través de la música. El estudio triangula datos de documentos y observaciones de clases con entrevistas a administradoras/es, facilitadoras/es y estudiantes.
 
 En esta serie de talleres, jóvenes del norte de Chalatenango utilizaron iPads para participar en la construcción de paz basada en la música a través del diálogo crítico, la memoria histórica y la reflexión. Una futura colaboración en línea continuará creando espacios para componer canciones que den testimonio del pasado, a la vez que construyen un futuro con esperanza. Los resultados de estos talleres se difundirán ampliamente en línea.
